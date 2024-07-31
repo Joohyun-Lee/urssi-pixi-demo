@@ -9,3 +9,6 @@ platforms = ["osx-arm64"]
 [tasks]
 
 [dependencies]
+python = ">=3.12.4,<4"
+matplotlib = ">=3.9.1,<4"
+scipy = ">=1.14.0,<2"
